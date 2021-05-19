@@ -3,4 +3,8 @@
         <zh>你好世界</zh>
         <fr>Bonjour le monde</fr>
     </hello_world>
+    <welcome_message>
+        <zh>欢迎信息的中文和法文翻译来自外部语言文件</zh>
+        <fr>La traduction en chinois et en français du message de bienvenue provient d'un fichier de langue externe</fr>
+    </welcome_message>
 </language>
